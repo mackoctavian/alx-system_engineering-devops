@@ -6,3 +6,4 @@
 5-listfilesdigitonly Display current directory contents with hidden files and id displayed in numeric
 6-firstdirectory create a dir named my-first-directory in tmp directory
 7-movethatfile moves file betty from /tmp to /temp/my_first_directory
+8-firstdelete deletes betty file in /temp/my_first_directory
