@@ -13,3 +13,4 @@
 12-directory_permissions creates directoty m_dir with 751 permission
 13-change_group changes group owner of file hello to school
 100-change_owner_and_group changes ownerand group 
+101-symbolic_link_permissions cahnes the owner and group owner with symbolic link
