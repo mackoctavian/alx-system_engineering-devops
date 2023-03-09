@@ -10,3 +10,4 @@
 9-John_Doe sets the mode of hello file to -rwxr-x-wx
 10-mirror_permissions sets the mode of hello to be same as olleh
 11-directories_permissions adds execute to subdirectory in current directory
+12-directory_permissions creates directoty m_dir with 751 permission
