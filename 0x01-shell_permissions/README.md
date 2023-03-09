@@ -9,3 +9,4 @@
 8-James_Bond Adds 007 permission to hello file
 9-John_Doe sets the mode of hello file to -rwxr-x-wx
 10-mirror_permissions sets the mode of hello to be same as olleh
+11-directories_permissions adds execute to subdirectory in current directory
