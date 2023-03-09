@@ -12,3 +12,4 @@
 11-directories_permissions adds execute to subdirectory in current directory
 12-directory_permissions creates directoty m_dir with 751 permission
 13-change_group changes group owner of file hello to school
+100-change_owner_and_group changes ownerand group 
