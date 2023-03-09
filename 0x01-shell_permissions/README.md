@@ -7,3 +7,4 @@
 6-multiple_permissions adds multiple permission to different users
 7-everybody Adds execute permission to all users and group
 8-James_Bond Adds 007 permission to hello file
+9-John_Doe sets the mode of hello file to -rwxr-x-wx
